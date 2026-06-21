@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 80" role="img" aria-label="China HDD Solutions logo">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#f59f00"/><stop offset="1" stop-color="#ffcc4d"/></linearGradient>
+  </defs>
+  <rect width="240" height="80" rx="18" fill="#0b1220"/>
+  <path d="M24 52 L52 24 H88 L76 36 H57 L46 47 H100 L88 60 H26 Z" fill="url(#g)"/>
+  <text x="111" y="35" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="22">HDD</text>
+  <text x="111" y="58" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-weight="600" font-size="13">PARTS SUPPLIER</text>
+</svg>
